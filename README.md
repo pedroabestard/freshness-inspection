@@ -1,6 +1,5 @@
 # 🍓 Freshness Inspection App
 
-This project was developed as part of the **Virtual Internship**, the final stage of the **Codebasics Data Science & GenAI Bootcamp**.  
 The goal is to build a machine learning–powered system that can **inspect the freshness of fruits** using image classification.
 
 ---
